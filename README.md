@@ -1,5 +1,5 @@
 # Combination-MCP-Mod
-An example R codes for Combination MCP-Mod
+Example R codes for Combination MCP-Mod
 
 Maunscript: Combination MCP-Mod for Two-drug Combination Dose-Ranging Studies
 
